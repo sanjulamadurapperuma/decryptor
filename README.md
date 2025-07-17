@@ -37,8 +37,8 @@ You need to build the project first using Maven. If you haven’t already, insta
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sanjulamadurapperuma/wso2-tenant-password-decryptor.git
-    cd wso2-tenant-password-decryptor
+    git clone https://github.com/sanjulamadurapperuma/decryptor.git
+    cd decryptor
     ```
 
 2. Run Maven to build the project:
